@@ -21,5 +21,3 @@ $ pipenv shell
 $ pipenv sync
 
 ```
-
-## Standalon Binary for Dummies
